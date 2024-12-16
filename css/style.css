@@ -278,7 +278,7 @@ a {
 .card {
   border-radius: 7px;
   box-shadow: 0 0 20px 10px #f3f3f3;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .card__header,
@@ -339,7 +339,7 @@ a {
   width: 40px;
   display: inline-block;
   position: absolute;
-  top: -6px;
+  top: -5px;
   right: 5%;
 }
 
